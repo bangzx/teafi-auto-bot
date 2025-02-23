@@ -3,6 +3,13 @@
 ## CHANNEL TELEGRAM JOIN HERE
 [KLIK DISINI AIRDROP FETCH](https://t.me/airdropfetchofficial)
 
+## Preparation before starting
+- **Balance POL min 1**
+
+- **Balance WPOL min 2**
+
+- **Balance TPOL min 1**
+
 ## Installation 
 1. Clone the repository:
 ```bash
