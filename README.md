@@ -5,7 +5,7 @@
 
 ## Preparation before starting
 - **Permit Sign manual / swap WPOL to TPOL 1x manual on web before run script**
-- 
+  
 - **Balance POL min 1**
 
 - **Balance WPOL min 2**
