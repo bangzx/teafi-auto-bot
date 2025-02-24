@@ -4,11 +4,12 @@
 [KLIK DISINI AIRDROP FETCH](https://t.me/airdropfetchofficial)
 
 ## Preparation before starting
+- **Permit Sign manual / swap WPOL to TPOL 1x manual on web before run script**
+- 
 - **Balance POL min 1**
 
 - **Balance WPOL min 2**
 
-- **Balance TPOL min 1**
 
 ## Installation 
 1. Clone the repository:
